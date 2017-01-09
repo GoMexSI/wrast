@@ -1,4 +1,9 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "wrast"
+  "format": "wrast",
+  "resources": {
+    "wrast/Wrast-Thesis-Raw-Data-gut-content.csv": "Wrast-Thesis-Raw-Data-gut-content.csv",
+    "wrast/lavacaBayLocations.csv": "lavacaBayLocations.csv",
+    "wrast/lavacaBayEnvironmental.csv": "lavacaBayEnvironmental.csv"
+  }
 }
