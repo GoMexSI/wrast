@@ -1,7 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "wrast",
-  "citation": "Wrast JL. 2008. Spatiotemporal And Habitat-mediated Food Web Dynamics in Lavaca Bay, Texas. Master Thesis."
+  "citation": "Wrast JL. 2008. Spatiotemporal And Habitat-mediated Food Web Dynamics in Lavaca Bay, Texas. Master Thesis.",
   "resources": {
     "wrast/Wrast-Thesis-Raw-Data-gut-content.csv": "Wrast-Thesis-Raw-Data-gut-content.csv",
     "wrast/lavacaBayLocations.csv": "lavacaBayLocations.csv",
